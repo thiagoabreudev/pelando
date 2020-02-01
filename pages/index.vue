@@ -6,7 +6,7 @@
         pelando
       </h1>
       <h2 class="subtitle">
-        My mathematical Nuxt.js project
+        Teste do GH pages
       </h2>
       <div class="links">
         <a
